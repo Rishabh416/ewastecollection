@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #f8fff8;
+}
+
+body {
+    background-image: url("assets/heroBG.webp");
+    }
